@@ -12,7 +12,6 @@
 		6EF8FC2A29C3A6A5008F3ECE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EF8FC2929C3A6A5008F3ECE /* Assets.xcassets */; };
 		6EF8FC2D29C3A6A5008F3ECE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EF8FC2C29C3A6A5008F3ECE /* Preview Assets.xcassets */; };
 		6EF8FC3429C4DBF0008F3ECE /* SearchContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EF8FC3329C4DBF0008F3ECE /* SearchContainerView.swift */; };
-		6EF8FC3629C4E7AD008F3ECE /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EF8FC3529C4E7AD008F3ECE /* TestView.swift */; };
 		6EF8FC3A29C4F7E7008F3ECE /* CategoryTileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EF8FC3929C4F7E6008F3ECE /* CategoryTileView.swift */; };
 		6EF8FC3C29C4FE1C008F3ECE /* UserListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EF8FC3B29C4FE1C008F3ECE /* UserListItemView.swift */; };
 		6EF8FC3F29C504AA008F3ECE /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EF8FC3E29C504AA008F3ECE /* Person.swift */; };
@@ -25,7 +24,6 @@
 		6EF8FC2929C3A6A5008F3ECE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6EF8FC2C29C3A6A5008F3ECE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6EF8FC3329C4DBF0008F3ECE /* SearchContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchContainerView.swift; sourceTree = "<group>"; };
-		6EF8FC3529C4E7AD008F3ECE /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 		6EF8FC3729C4EDD9008F3ECE /* PlusJakartaSans-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "PlusJakartaSans-SemiBold.ttf"; path = "../../../../Downloads/Plus_Jakarta_Sans/static/PlusJakartaSans-SemiBold.ttf"; sourceTree = "<group>"; };
 		6EF8FC3829C4EE12008F3ECE /* Search-User-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Search-User-Info.plist"; sourceTree = SOURCE_ROOT; };
 		6EF8FC3929C4F7E6008F3ECE /* CategoryTileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryTileView.swift; sourceTree = "<group>"; };
@@ -70,7 +68,6 @@
 				6EF8FC2929C3A6A5008F3ECE /* Assets.xcassets */,
 				6EF8FC2B29C3A6A5008F3ECE /* Preview Content */,
 				6EF8FC3329C4DBF0008F3ECE /* SearchContainerView.swift */,
-				6EF8FC3529C4E7AD008F3ECE /* TestView.swift */,
 				6EF8FC3729C4EDD9008F3ECE /* PlusJakartaSans-SemiBold.ttf */,
 				6EF8FC3929C4F7E6008F3ECE /* CategoryTileView.swift */,
 				6EF8FC3B29C4FE1C008F3ECE /* UserListItemView.swift */,
@@ -164,7 +161,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6EF8FC3629C4E7AD008F3ECE /* TestView.swift in Sources */,
 				6EF8FC2829C3A6A3008F3ECE /* SearchView.swift in Sources */,
 				6EF8FC2629C3A6A3008F3ECE /* Search_UserApp.swift in Sources */,
 				6EF8FC3429C4DBF0008F3ECE /* SearchContainerView.swift in Sources */,
